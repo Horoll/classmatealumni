@@ -1,0 +1,21 @@
+[ 2017-03-06T20:56:41+08:00 ] ::1 /project/thinkphp_3.2.3_full/home/login/index
+ERR: 模板不存在:./Application/Home/View/Login/index.html
+
+[ 2017-03-06T20:56:42+08:00 ] ::1 /project/thinkphp_3.2.3_full/home/login/index
+ERR: 模板不存在:./Application/Home/View/Login/index.html
+
+[ 2017-03-06T21:21:55+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/index/index.html
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2017-03-06T21:37:44+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/Login/index.html
+ERR: Think\Controller:erroe方法不存在！
+
+[ 2017-03-06T21:39:33+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/Login/1
+ERR: 非法操作:1
+
+[ 2017-03-06T21:44:58+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/Login/Login/index
+ERR: 非法操作:Login
+
+[ 2017-03-06T21:45:19+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/Login/Login/index
+ERR: 非法操作:Login
+

@@ -1,0 +1,201 @@
+[ 2017-03-18T08:23:08+08:00 ] ::1 /project/classmatealumni/index.php/Home/Register/register.html
+ERR: 1406:Data too long for column 'password' at row 1
+ [ SQL语句 ] : INSERT INTO `user` (`username`,`password`) VALUES ('user1','e10adc3949ba59abbe56e057f20f883e')
+
+[ 2017-03-18T09:24:26+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/changeinfo.html
+ERR: 1364:Field 'username' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `user` (`name`,`classname`,`hobby`,`sign`) VALUES ('李四','计科三班','写代码','天天写代码')
+
+[ 2017-03-18T09:26:04+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/changeinfo.html
+ERR: 1054:Unknown column 'user1' in 'where clause'
+ [ SQL语句 ] : UPDATE `user` SET `name`='李四',`classname`='计科三班',`hobby`='写代码',`sign`='天天写代码' WHERE ( username=user1 )
+
+[ 2017-03-18T09:28:07+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/User/index
+ERR: 非法操作:User
+
+[ 2017-03-18T09:28:21+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/User/index
+ERR: 非法操作:User
+
+[ 2017-03-18T09:28:23+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/User/index
+ERR: 非法操作:User
+
+[ 2017-03-18T09:30:23+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/changeinfo.html
+ERR: 1054:Unknown column 'user1' in 'where clause'
+ [ SQL语句 ] : UPDATE `user` SET `name`='笑吧',`classname`='计科三班',`hobby`='写代码',`sign`='天天写代码' WHERE ( username=user1 )
+
+[ 2017-03-18T09:39:37+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/changeinfo.html
+ERR: 1054:Unknown column 'user1' in 'where clause'
+ [ SQL语句 ] : UPDATE `user` SET `name`='烦',`classname`='计科三班',`hobby`='写代码',`sign`='天天写代码' WHERE ( username=user1 )
+
+[ 2017-03-18T10:34:13+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guest.html&&username=user1
+ERR: 非法操作:guest.html&&username=user1
+
+[ 2017-03-18T10:34:34+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/Index.html/username/user1
+ERR: 非法操作:Index.html
+
+[ 2017-03-18T10:34:42+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guests.html/username/user1
+ERR: 非法操作:guests.html
+
+[ 2017-03-18T10:34:53+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guests/username/user1
+ERR: 非法操作:guests
+
+[ 2017-03-18T10:37:42+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guests
+ERR: 非法操作:guests
+
+[ 2017-03-18T10:37:59+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guests
+ERR: 非法操作:guests
+
+[ 2017-03-18T10:37:59+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guests/username/user1
+ERR: 非法操作:guests
+
+[ 2017-03-18T10:38:00+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guests.html/username/user1
+ERR: 非法操作:guests.html
+
+[ 2017-03-18T10:38:00+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/Index.html/username/user1
+ERR: 非法操作:Index.html
+
+[ 2017-03-18T10:39:07+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guest/username/user1
+ERR: Think\Controller:displa方法不存在！
+
+[ 2017-03-18T10:39:17+08:00 ] ::1 /project/classmatealumni/index.php/Home/User/guest/username/user1
+ERR: syntax error, unexpected ''username]); ?></title>' (T_ENCAPSED_AND_WHITESPACE), expecting ']'
+
+[ 2017-03-18T14:23:11+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: 无法加载控制器:Manage
+
+[ 2017-03-18T14:23:53+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: 无法加载控制器:Manage
+
+[ 2017-03-18T14:23:54+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: 无法加载控制器:Manage
+
+[ 2017-03-18T14:23:57+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: 无法加载控制器:Manage
+
+[ 2017-03-18T15:06:41+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: 1146:Table 'classmatealumni.address_list' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `address_list`
+
+[ 2017-03-18T15:07:01+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: 1146:Table 'classmatealumni.address_list' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `address_list`
+
+[ 2017-03-18T15:07:01+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: 1146:Table 'classmatealumni.address_list' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `address_list`
+
+[ 2017-03-18T15:07:02+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: 1146:Table 'classmatealumni.address_list' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `address_list`
+
+[ 2017-03-18T15:07:41+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:07:42+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:07:42+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:09:52+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:09:53+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:10:03+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:10:03+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:10:45+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:10:46+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:10:46+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:10:48+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:10:48+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:11:18+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:11:19+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html
+ERR: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-03-18T15:35:05+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/changeaddress.html
+ERR: Think\Model:creat方法不存在！
+
+[ 2017-03-18T15:43:47+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addaddress.html
+ERR: Call to a member function add() on array
+
+[ 2017-03-18T15:48:17+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addaddress.html
+ERR: Call to a member function add() on array
+
+[ 2017-03-18T16:25:53+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html/
+ERR: syntax error, unexpected '";?>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2017-03-18T16:25:53+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html/
+ERR: syntax error, unexpected '";?>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2017-03-18T16:25:53+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/index.html/
+ERR: syntax error, unexpected '";?>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2017-03-18T16:30:27+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/changeinfo.html
+ERR: 非法操作:changeinfo
+
+[ 2017-03-18T16:35:29+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addaddress.html
+ERR: 非法操作:addaddress
+
+[ 2017-03-18T16:35:50+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addaddress.html
+ERR: 非法操作:addaddress
+
+[ 2017-03-18T16:36:26+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1366:Incorrect integer value: '阿萨德' for column 'tel' at row 1
+ [ SQL语句 ] : INSERT INTO `addresslist` (`studentname`,`tel`,`qq`) VALUES ('大刘','阿萨德','0')
+
+[ 2017-03-18T16:47:28+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1062:Duplicate entry '4' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `addresslist` (`id`,`studentname`,`qq`,`tel`) VALUES ('4','大刘','123456789','123456789012')
+
+[ 2017-03-18T17:06:47+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1062:Duplicate entry '4' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `addresslist` (`id`,`studentname`,`qq`,`tel`) VALUES ('4','大刘','123456789','123456789012')
+
+[ 2017-03-18T17:07:15+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1062:Duplicate entry '4' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `addresslist` (`id`,`studentname`,`qq`,`tel`) VALUES ('4','大刘','123456789','123456789012')
+
+[ 2017-03-18T17:14:40+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1366:Incorrect integer value: '' for column 'tel' at row 1
+ [ SQL语句 ] : INSERT INTO `addresslist` (`studentname`,`tel`,`qq`) VALUES ('史塔克','','0')
+
+[ 2017-03-18T17:15:18+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1366:Incorrect integer value: '' for column 'tel' at row 1
+ [ SQL语句 ] : INSERT INTO `addresslist` (`studentname`,`tel`,`qq`) VALUES ('史塔克','','0')
+
+[ 2017-03-18T17:15:41+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1366:Incorrect integer value: '' for column 'tel' at row 1
+ [ SQL语句 ] : INSERT INTO `addresslist` (`studentname`,`tel`,`qq`) VALUES ('史塔克','','0')
+
+[ 2017-03-18T18:26:56+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/changeinfo.html
+ERR: Call to undefined function Home\Controller\int()
+
+[ 2017-03-18T18:52:05+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1062:Duplicate entry '18' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `addresslist` (`id`,`studentname`,`qq`,`tel`) VALUES ('18','阿萨德','','')
+
+[ 2017-03-18T18:52:16+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: 1062:Duplicate entry '18' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `addresslist` (`id`,`studentname`,`qq`,`tel`) VALUES ('18','阿萨德','','')
+
+[ 2017-03-18T19:02:47+08:00 ] ::1 /project/classmatealumni/index.php/Home/Manage/addinfo.html
+ERR: Think\Model:creat方法不存在！
+

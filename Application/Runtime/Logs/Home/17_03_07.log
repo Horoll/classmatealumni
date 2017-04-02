@@ -1,0 +1,61 @@
+[ 2017-03-07T09:23:35+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/css/bootstrap.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-07T09:23:35+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-07T09:23:41+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/css/bootstrap.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-07T09:23:41+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-07T09:23:42+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/css/bootstrap.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-07T09:23:42+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-07T09:23:42+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-07T09:23:42+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/css/bootstrap.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-07T09:23:42+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-07T09:25:16+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/css/bootstrap.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-07T09:25:16+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-07T09:25:17+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/css/bootstrap.min.css
+ERR: 无法加载控制器:Css
+
+[ 2017-03-07T09:25:17+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/js/bootstrap.min.js
+ERR: 无法加载控制器:Js
+
+[ 2017-03-07T10:02:22+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/Register/register.html
+ERR: 1364:Field 'username' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `user` (`password`) VALUES ('960921')
+
+[ 2017-03-07T16:37:56+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/Register/Login/index
+ERR: 非法操作:Login
+
+[ 2017-03-07T17:09:30+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/Register/Login/index
+ERR: 非法操作:Login
+
+[ 2017-03-07T17:10:13+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Home/Register/Login/index
+ERR: 非法操作:Login
+
+[ 2017-03-07T18:17:09+08:00 ] ::1 /project/thinkphp_3.2.3_full/
+ERR: 模板不存在:./Application/Home/View/../Login/login.html
+
+[ 2017-03-07T18:17:11+08:00 ] ::1 /project/thinkphp_3.2.3_full/
+ERR: 模板不存在:./Application/Home/View/../Login/login.html
+
+[ 2017-03-07T18:18:04+08:00 ] ::1 /project/thinkphp_3.2.3_full/
+ERR: 模板不存在:./Application/Home/View/../Login/login.html
+

@@ -1,0 +1,54 @@
+[ 2017-02-16T13:23:49+08:00 ] ::1 /project/thinkphp_3.2.3_full/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 无法加载模块:Common
+
+[ 2017-02-16T13:24:03+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Runtime
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Runtime
+
+[ 2017-02-16T13:26:06+08:00 ] ::1 /project/thinkphp_3.2.3_full/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Common
+
+[ 2017-02-16T13:26:29+08:00 ] ::1 /project/thinkphp_3.2.3_full/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Common
+
+[ 2017-02-16T13:26:30+08:00 ] ::1 /project/thinkphp_3.2.3_full/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Common
+
+[ 2017-02-16T13:27:00+08:00 ] ::1 /project/thinkphp_3.2.3_full/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 无法加载模块:Common
+
+[ 2017-02-16T13:27:01+08:00 ] ::1 /project/thinkphp_3.2.3_full/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Common
+
+[ 2017-02-16T13:27:02+08:00 ] ::1 /project/thinkphp_3.2.3_full/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载模块:Common
+
+[ 2017-02-16T13:28:48+08:00 ] ::1 /project/thinkphp_3.2.3_full/common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Common
+
